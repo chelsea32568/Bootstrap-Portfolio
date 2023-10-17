@@ -4,8 +4,6 @@ My Project Portfolio - Bootstrap
 ## Description 
 This webpage contains some of the most recent projects that I have been working on. The aim was to create a webpage using Bootstrap which shows my projects and allows users to view my projects. Throughout this project, I have developed my understanding of how Bootstrap can be used to create webpages and how design can be altered using CSS. Moving forward, I will link my projects to the page and make them accessible when users click on the relevant buttons This task was completed using VS Code. 
 
-https://github.com/chelsea32568/portfolio-chelsea-chapman.git 
-
 ## Installation
 
 To work on this code copy this SSH key: git@github.com:chelsea32568/Bootstrap-Portfolio.git and paste into your desired folder using Git Bash. Then use git pull to pull the file into your local repository. Make necessary changes and then add changes into the git repository by using git add -A, git commit -m "", git push. 
