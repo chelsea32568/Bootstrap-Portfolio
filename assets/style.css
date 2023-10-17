@@ -47,28 +47,37 @@
     margin: 300px;
 }
 
+.link:hover {
+  color: hotpink;
+}
+
 .cardContainer {
     margin-bottom: 15px;
   }
-  .card {
+
+.card {
     margin: 0 auto;
   }
 
-  a {
+a {
     color:purple
   }
 
-  p {
+p {
     background-color: antiquewhite;
     opacity: 75%;
     padding: 10px;
   }
 
-  .card-img-top {
+.card-img-top {
     height: 100px;
   }
 
-  .skills {
+.btn:hover {
+  box-shadow: 5px 10px plum;
+}
+
+.skills {
     margin: 100px;
     color:antiquewhite;
     background-color: plum;
@@ -76,6 +85,6 @@
     border-radius: 25px;
   }
 
-  .contact {
+.contact {
     margin: 100px;
   }
