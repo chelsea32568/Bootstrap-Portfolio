@@ -31,7 +31,6 @@
     background-image: url(../assets/img/tulips.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 500px;
     height: calc(100vh - 25px);
     display: flex;
     align-items: center;
@@ -45,6 +44,7 @@
     color: white;
     text-align: center;
     color: black;
+    margin: 300px;
 }
 
 .cardContainer {
