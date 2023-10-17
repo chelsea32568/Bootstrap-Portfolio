@@ -11,6 +11,9 @@ https://github.com/chelsea32568/portfolio-chelsea-chapman.git
 To work on this code copy this SSH key: git@github.com:chelsea32568/Bootstrap-Portfolio.git and paste into your desired folder using Git Bash. Then use git pull to pull the file into your local repository. Make necessary changes and then add changes into the git repository by using git add -A, git commit -m "", git push. 
 
 ## Usage 
+
+![Image of page](./assets/img/wholepage.png)
+
 If you click on the 'About Me', 'Projects', 'Skills' and 'Contact Me' links in the nav bar, my page will scroll down to the required area. 
 
 ![Image of nav bar](./assets/img/navbar.JPG)
@@ -36,6 +39,7 @@ If you wish to contact me, please use the information at the bottom of the page.
 
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [HTMl and CSS knowledge](https://www.freecodecamp.org/learn)
+* [Bootstrap](https://getbootstrap.com/)
 
 
 ## License
