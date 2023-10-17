@@ -67,3 +67,11 @@
   .card-img-top {
     height: 100px;
   }
+
+  .skills {
+    margin: 100px;
+    color:antiquewhite;
+    background-color: plum;
+    padding: 20px;
+    border-radius: 25px;
+  }
